@@ -6,7 +6,7 @@ import Projects from "./components/projects/Projects";
 function App() {
   return (
     <div className="w-full h-auto">
-      <div className="max-w-screen-2xl min-h-screen px-[10%] bg-black text-white">
+      <div className="max-w-screen-2xl min-h-screen px-[5%] bg-black text-white">
         <Navbar />
         <Banner />
         <Features />
